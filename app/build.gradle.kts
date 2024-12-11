@@ -48,4 +48,7 @@ dependencies {
 
     //GSON:
     implementation (libs.gson)
+
+    //Glide:
+    implementation (libs.glide)
 }
